@@ -1,1 +1,1 @@
-# auth-with-play-silhouette-example
+# auth-stateless-with-play-silhouette-redis-example
